@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="922" />
     <option name="newTranslationDialogY" value="530" />
     <histories>
+      <item value="移动" />
+      <item value="yi" />
       <item value="sync plugs silenty" />
       <item value="syncsilenty" />
       <item value="silenty" />
@@ -53,13 +55,11 @@
       <item value="companycount" />
       <item value="company" />
       <item value="company code" />
-      <item value="company num" />
-      <item value="company NUM&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2385" />
-        <entry key="ENGLISH" value="2201" />
+        <entry key="CHINESE" value="2391" />
+        <entry key="ENGLISH" value="2207" />
       </map>
     </option>
   </component>
