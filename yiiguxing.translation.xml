@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="922" />
     <option name="newTranslationDialogY" value="530" />
     <histories>
+      <item value="spatro" />
+      <item value="spat" />
+      <item value="分布" />
       <item value="异常" />
       <item value="移动" />
       <item value="yi" />
@@ -52,14 +55,11 @@
       <item value="deatil" />
       <item value="business" />
       <item value="bussine" />
-      <item value="company count" />
-      <item value="companycount" />
-      <item value="company" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2398" />
-        <entry key="ENGLISH" value="2214" />
+        <entry key="CHINESE" value="2409" />
+        <entry key="ENGLISH" value="2225" />
       </map>
     </option>
   </component>
