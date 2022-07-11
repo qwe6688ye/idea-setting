@@ -1,0 +1,16 @@
+<keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="$ChooseTranslatorAction" />
+  <action id="$EditorTranslateAction" />
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="$TerminalTranslationAction" />
+  <action id="$TranslateQuickDocAction" />
+  <action id="$TranslateRenderedDocSelectionAction" />
+  <action id="$TranslateTextComponent" />
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="ToggleQuickDocTranslationActionWithShortcut" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+</keymap>

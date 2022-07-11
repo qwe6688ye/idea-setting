@@ -5,6 +5,18 @@
     <option name="newTranslationDialogX" value="922" />
     <option name="newTranslationDialogY" value="530" />
     <histories>
+      <item value="slave" />
+      <item value="从属" />
+      <item value="枞树" />
+      <item value="congshu" />
+      <item value="从" />
+      <item value="s" />
+      <item value="salve" />
+      <item value="save" />
+      <item value="salv" />
+      <item value="slav" />
+      <item value="sla" />
+      <item value="so" />
       <item value="spatro" />
       <item value="spat" />
       <item value="分布" />
@@ -43,27 +55,15 @@
       <item value="学习" />
       <item value="learn" />
       <item value="le" />
-      <item value="灰尘" />
-      <item value="有限" />
-      <item value="youxian" />
-      <item value="识别" />
-      <item value="审计" />
-      <item value="source" />
-      <item value="soo" />
-      <item value="detail" />
-      <item value="detial" />
-      <item value="deatil" />
-      <item value="business" />
-      <item value="bussine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2409" />
-        <entry key="ENGLISH" value="2225" />
+        <entry key="CHINESE" value="2437" />
+        <entry key="ENGLISH" value="2252" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657011196641" />
+    <option name="lastTrimTime" value="1657502593026" />
   </component>
 </application>
