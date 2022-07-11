@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="214" />
     <option name="newTranslationDialogWidth" value="352" />
-    <option name="newTranslationDialogX" value="922" />
-    <option name="newTranslationDialogY" value="530" />
+    <option name="newTranslationDialogX" value="945" />
+    <option name="newTranslationDialogY" value="554" />
     <histories>
+      <item value="monitor agency" />
+      <item value="monitor" />
+      <item value="mointor" />
       <item value="Bundle" />
       <item value="slave" />
       <item value="从属" />
@@ -52,13 +55,10 @@
       <item value="jenessy" />
       <item value="ELIFECYCLE" />
       <item value="Enterprise" />
-      <item value="学" />
-      <item value="学习" />
-      <item value="learn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2438" />
+        <entry key="CHINESE" value="2439" />
         <entry key="ENGLISH" value="2252" />
       </map>
     </option>
