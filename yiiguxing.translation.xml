@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="214" />
     <option name="newTranslationDialogWidth" value="352" />
-    <option name="newTranslationDialogX" value="999" />
-    <option name="newTranslationDialogY" value="492" />
+    <option name="newTranslationDialogX" value="618" />
+    <option name="newTranslationDialogY" value="474" />
     <histories>
+      <item value="appraise" />
       <item value="compat" />
       <item value="Bundle" />
       <item value="permanent" />
@@ -54,16 +55,15 @@
       <item value="场所" />
       <item value="space" />
       <item value="Criteria" />
-      <item value="genius" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2457" />
+        <entry key="CHINESE" value="2458" />
         <entry key="ENGLISH" value="2265" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657502593026" />
+    <option name="lastTrimTime" value="1658137045336" />
   </component>
 </application>
