@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="833" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="处理" />
+      <item value="deal" />
+      <item value="del" />
+      <item value="deal with" />
+      <item value="dea" />
+      <item value="工程" />
+      <item value="program" />
+      <item value="introduce" />
+      <item value="简介" />
+      <item value="简洁" />
+      <item value="注安师" />
+      <item value="scope" />
+      <item value="technology" />
       <item value="process" />
       <item value="techno" />
       <item value="te " />
@@ -42,24 +55,11 @@
       <item value="quailf" />
       <item value="资质&#10;" />
       <item value="资格" />
-      <item value="Archives" />
-      <item value="档案室" />
-      <item value="档案shi" />
-      <item value="档案" />
-      <item value="面积" />
-      <item value="OPC Package" />
-      <item value="摄像头" />
-      <item value="s" />
-      <item value="视频" />
-      <item value="appraise" />
-      <item value="compat" />
-      <item value="Bundle" />
-      <item value="permanent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2598" />
-        <entry key="ENGLISH" value="2401" />
+        <entry key="CHINESE" value="2652" />
+        <entry key="ENGLISH" value="2453" />
       </map>
     </option>
   </component>
