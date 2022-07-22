@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="833" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="逻辑" />
       <item value="Advice" />
       <item value="aspectj" />
       <item value="entity" />
@@ -54,12 +55,11 @@
       <item value="quailtifition" />
       <item value="quailtifi" />
       <item value="quailt" />
-      <item value="quail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2655" />
-        <entry key="ENGLISH" value="2453" />
+        <entry key="CHINESE" value="2660" />
+        <entry key="ENGLISH" value="2458" />
       </map>
     </option>
   </component>
