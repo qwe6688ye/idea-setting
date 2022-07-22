@@ -5,6 +5,20 @@
     <option name="newTranslationDialogX" value="833" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="norepeat" />
+      <item value="重复" />
+      <item value="repaeat" />
+      <item value="Authentication" />
+      <item value="Authentic" />
+      <item value="Auth" />
+      <item value="A" />
+      <item value="Authorization" />
+      <item value="Au" />
+      <item value="Authritication" />
+      <item value="Authri" />
+      <item value="Authrization" />
+      <item value="Authr" />
+      <item value="secrect" />
       <item value="逻辑" />
       <item value="Advice" />
       <item value="aspectj" />
@@ -41,25 +55,11 @@
       <item value="business num" />
       <item value="business" />
       <item value="business_no" />
-      <item value="fax" />
-      <item value="传真" />
-      <item value="state" />
-      <item value="status" />
-      <item value="stauts" />
-      <item value="staute" />
-      <item value="状态" />
-      <item value="许可" />
-      <item value="allow" />
-      <item value="qualification" />
-      <item value="quali" />
-      <item value="quailtifition" />
-      <item value="quailtifi" />
-      <item value="quailt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2660" />
-        <entry key="ENGLISH" value="2458" />
+        <entry key="CHINESE" value="2676" />
+        <entry key="ENGLISH" value="2470" />
       </map>
     </option>
   </component>
