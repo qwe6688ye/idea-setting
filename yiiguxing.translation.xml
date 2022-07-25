@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="833" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="ConstraintViolationException" />
       <item value="expiration" />
       <item value="expire" />
       <item value="exprie" />
@@ -54,11 +55,10 @@
       <item value="qualit" />
       <item value="邮政qualit" />
       <item value="邮政" />
-      <item value="邮政编码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2682" />
+        <entry key="CHINESE" value="2683" />
         <entry key="ENGLISH" value="2471" />
       </map>
     </option>
