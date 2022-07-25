@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="833" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="Authorization" />
       <item value="ConstraintViolationException" />
       <item value="expiration" />
       <item value="expire" />
@@ -18,7 +19,6 @@
       <item value="Authentic" />
       <item value="Auth" />
       <item value="A" />
-      <item value="Authorization" />
       <item value="Au" />
       <item value="Authritication" />
       <item value="Authri" />
@@ -58,7 +58,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2683" />
+        <entry key="CHINESE" value="2684" />
         <entry key="ENGLISH" value="2471" />
       </map>
     </option>
