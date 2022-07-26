@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="578" />
     <option name="newTranslationDialogY" value="476" />
     <histories>
+      <item value="refuse" />
       <item value="taxpayer" />
       <item value="纳税人" />
       <item value="纳税人识别号" />
@@ -55,12 +56,11 @@
       <item value="shou" />
       <item value="乙" />
       <item value="乙方" />
-      <item value="甲方" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2849" />
-        <entry key="ENGLISH" value="2632" />
+        <entry key="CHINESE" value="2856" />
+        <entry key="ENGLISH" value="2638" />
       </map>
     </option>
   </component>
