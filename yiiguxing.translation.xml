@@ -2,9 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="214" />
     <option name="newTranslationDialogWidth" value="352" />
-    <option name="newTranslationDialogX" value="833" />
-    <option name="newTranslationDialogY" value="446" />
+    <option name="newTranslationDialogX" value="998" />
+    <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="latitude" />
+      <item value="经度" />
+      <item value="latlong" />
+      <item value="lat" />
+      <item value="long" />
+      <item value="lan" />
       <item value="Authorization" />
       <item value="ConstraintViolationException" />
       <item value="expiration" />
@@ -49,17 +55,11 @@
       <item value="经营" />
       <item value="issue" />
       <item value="颁发" />
-      <item value="办法" />
-      <item value="iss" />
-      <item value="发放" />
-      <item value="qualit" />
-      <item value="邮政qualit" />
-      <item value="邮政" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2684" />
-        <entry key="ENGLISH" value="2471" />
+        <entry key="CHINESE" value="2695" />
+        <entry key="ENGLISH" value="2480" />
       </map>
     </option>
   </component>
