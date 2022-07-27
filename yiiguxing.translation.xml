@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="578" />
     <option name="newTranslationDialogY" value="476" />
     <histories>
+      <item value="rebase" />
       <item value="schedule" />
       <item value="scdule" />
       <item value="sc" />
@@ -55,12 +56,11 @@
       <item value="进度" />
       <item value="process" />
       <item value="要求" />
-      <item value="sign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2888" />
-        <entry key="ENGLISH" value="2667" />
+        <entry key="CHINESE" value="2889" />
+        <entry key="ENGLISH" value="2668" />
       </map>
     </option>
   </component>
