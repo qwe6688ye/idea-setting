@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="200" />
+    <option name="newTranslationDialogHeight" value="196" />
     <option name="newTranslationDialogWidth" value="352" />
     <option name="newTranslationDialogX" value="578" />
     <option name="newTranslationDialogY" value="476" />
     <histories>
+      <item value="accompany" />
+      <item value="陪同" />
+      <item value="陪伴" />
       <item value="rebase" />
       <item value="schedule" />
       <item value="scdule" />
@@ -53,14 +56,11 @@
       <item value="pro" />
       <item value="require" />
       <item value="进度要求" />
-      <item value="进度" />
-      <item value="process" />
-      <item value="要求" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2889" />
-        <entry key="ENGLISH" value="2668" />
+        <entry key="CHINESE" value="2904" />
+        <entry key="ENGLISH" value="2682" />
       </map>
     </option>
   </component>
