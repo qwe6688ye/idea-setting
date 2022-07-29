@@ -3,9 +3,10 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="181" />
     <option name="newTranslationDialogWidth" value="352" />
-    <option name="newTranslationDialogX" value="824" />
-    <option name="newTranslationDialogY" value="579" />
+    <option name="newTranslationDialogX" value="890" />
+    <option name="newTranslationDialogY" value="599" />
     <histories>
+      <item value="Validated" />
       <item value="生效" />
       <item value="评估" />
       <item value="指定" />
@@ -55,11 +56,10 @@
       <item value="通讯地址" />
       <item value="通讯d" />
       <item value="通讯" />
-      <item value="t" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2987" />
+        <entry key="CHINESE" value="2988" />
         <entry key="ENGLISH" value="2763" />
       </map>
     </option>
