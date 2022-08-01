@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="181" />
-    <option name="newTranslationDialogWidth" value="352" />
+    <option name="newTranslationDialogHeight" value="200" />
+    <option name="newTranslationDialogWidth" value="350" />
     <option name="newTranslationDialogX" value="890" />
-    <option name="newTranslationDialogY" value="599" />
+    <option name="newTranslationDialogY" value="546" />
     <histories>
+      <item value="rectify" />
+      <item value="reactify" />
+      <item value="schedule" />
       <item value="expand" />
       <item value="authorization" />
       <item value="aut" />
@@ -32,7 +35,6 @@
       <item value="陪同" />
       <item value="陪伴" />
       <item value="rebase" />
-      <item value="schedule" />
       <item value="scdule" />
       <item value="sc" />
       <item value="s" />
@@ -54,13 +56,11 @@
       <item value="fix" />
       <item value="contact" />
       <item value="联系" />
-      <item value="联系人" />
-      <item value="contact人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2998" />
-        <entry key="ENGLISH" value="2769" />
+        <entry key="CHINESE" value="3002" />
+        <entry key="ENGLISH" value="2771" />
       </map>
     </option>
   </component>
